@@ -1,6 +1,6 @@
 # Time Series Analysis of Import/Export Price Indexes: Central/South America
 
-This is a project for Time Series Analysis course at METU. The data that is used for this project can be found [here.](https://data.nasdaq.com/data/BLSN/EIUIH14243-importexport-price-indexes-centralsouth-america-dec-2009100) All of the analysis are conducted using R Studio with version 4.0.4.
+This is a project for Time Series Analysis course at METU. The data that is used for this project can be found [here.](https://data.nasdaq.com/data/BLSN/EIUIH14243-importexport-price-indexes-centralsouth-america-dec-2009100) 
 
 ## Steps in the Project:
 
